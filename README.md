@@ -4,4 +4,4 @@ NPM	:2106652083
 
 Kelas	:C
 
-Hobi	:Tidur
+Hobi	:Main Game
